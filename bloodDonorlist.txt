@@ -1,0 +1,11 @@
+Kandisz_Nora         	B+              		kdn@gm.com             		 6 				 2022.01.01.         
+Remek_Elek           	O-              		rek@ele.com            		 4 				 2022.01.01.         
+Pop_Simon            	B+              		psm@vi.hu              		 6 				 2022.01.01.         
+Patta_Nora           	A+              		patta@n.hu             		 4 				 2021.12.12.         
+Para_Zita            	B+              		przt@gm.com            		 7 				 2022.01.01.         
+Bac_Ilus             	O+              		bcil@us.hu             		 4 				 2022.01.01.         
+Barmi_Aron           	AB+             		brmi@a.com             		 3 				 2023.01.01.         
+Ria_Dora             	AB-             		rd@ria.hu              		 1 				 2000.01.04.         
+Bor_Virag            	O-              		bvr@ag.hu              		 4 				 2022.01.01.         
+Szikla_Szilard       	AB+             		szs@rd.com             		 3 				 2023.01.01.         
+Benter               	A-              		bent@gmail.com         		 6 				 2023.01.01.         
